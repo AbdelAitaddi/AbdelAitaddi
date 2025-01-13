@@ -5,11 +5,11 @@ Innovative Senior Frontend Engineer with over 10 years of experience in developi
 ## 🚀 Frontend Masterpiece Project 🚀
 
 #### 💥 Angular-achitecture-signals 💥
-> Boilerplate project to get started: A Practical Introduction to Signal-based Component Architecture & Angular Entreprise Architecture. All components are fully Signal-driven. Additionally, the project features a custom reactive state management system built on Signals, ensuring efficient and predictable state handling.
+> Boilerplate project to get started: A Practical Introduction to Angular Entreprise Architecture with Signal-based Component Architecture. All components are fully Signal-driven. Additionally, the project features a custom reactive state management system built on Signals, ensuring efficient and predictable state handling.
 > This project represents a migration from a Component-First architecture (standalone) to a Signal-based Component Architecture, utilizing Angular CLI 19.
 
 #### ✨ Angular-achitecture-standalone ✨
-> Boilerplate project to get started: A Practical Introduction to Angular Entreprise Architecture & Component-First architecture(standalone), Smart and Dumb Components, reactive state management und Angular material.
+> Boilerplate project to get started: A Practical Introduction Angular Entreprise Architecture with Component-First architecture(standalone), Smart and Dumb Components, reactive state management und Angular material.
 > This project represents a migration from Angular-achitecture-modular to a Component-First architecture(standalone), utilizing Angular CLI 16.
 
 #### 💫 Angular-achitecture-modular 💫
