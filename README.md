@@ -4,7 +4,7 @@ Innovative Senior Frontend Engineer with over 10 years of experience in developi
 
 ## 🚀 Frontend Masterpiece Project 🚀
 
-#### 💥 Angular-zoneless-ngrxSignalStore 💥
+#### 🔥 Angular-zoneless-ngrxSignalStore 🔥
 > Boilerplate project to get started: A Practical Introduction to Angular Entreprise Architecture with NgRx SignalStore. All components are fully Signal-driven and zoneless change detection. NgRx SignalStore is a fully-featured state management solution that offers a robust way to manage application state.
 
 #### 💥 Angular-achitecture-signals 💥
