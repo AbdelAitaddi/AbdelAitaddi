@@ -18,4 +18,4 @@ Innovative Senior Frontend Engineer with over 10 years of experience in developi
 > This project represents a migration from Angular-achitecture-modular to a Component-First architecture(standalone), utilizing Angular CLI 16.
 
 #### 💫 Angular-achitecture-modular 💫
-> Boilerplate project to get started: A Practical Introduction to Modular architecture, Component / Container architecture, RxJS State Management and Angular Material.
+> Boilerplate project to get started: A Practical Introduction to Modular architecture, Component / Container architecture, RxJS State Management and Angular Material, utilizing Angular CLI 15.
