@@ -7,7 +7,7 @@ Innovative Senior Frontend Engineer with over 10 years of experience in developi
 #### 🔥 [Angular-zoneless-ngrxSignalStore](https://github.com/AbdelAitaddi/angular-zoneless-ngrxSignalStore) 🔥
 > Boilerplate project to get started: A Practical Introduction to Angular Entreprise Architecture with NgRx SignalStore. All components are fully Signal-driven and zoneless change detection NgRx SignalStore is a fully-featured state management solution that offers a robust way to manage application state (utilizing Angular CLI 19).
 
-#### 💥 [Angular-achitecture-signals](https://github.com/AbdelAitaddi/angular-achitecture-signals) 💥
+#### 💥 [Angular-achitecture-signals (Signal-based Component)](https://github.com/AbdelAitaddi/angular-achitecture-signals) 💥
 > Boilerplate project to get started: A Practical Introduction to Angular Entreprise Architecture with Signal-based Component Architecture. All components are fully Signal-driven. Additionally, the project features a custom reactive state management system built on Signals, ensuring efficient and predictable state handling.
 > <br /><br />
 > This project represents a migration from a Component-First architecture (standalone) to a Signal-based Component Architecture, utilizing Angular CLI 19.
