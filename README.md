@@ -1,6 +1,8 @@
 ## Hi there 👋, I'm Abdel Ait Addi
 
-Innovative Senior Frontend Engineer with over 10 years of experience in developing, building, and managing scalable and robust enterprise applications. Proficient in modern JavaScript libraries and frameworks, including Angular ❤️, PWA, TypeScript, NgRx, RxJS, GraphQL, Jest, and Cypress.io.
+Innovative Senior Frontend Engineer with over 10 years of experience in developing, building, and managing scalable and robust enterprise applications.
+
+Passionate about creating performant, maintainable, and user-friendly web applications and proficient in modern JavaScript libraries and frameworks, including Angular ❤️, PWA, TypeScript, NgRx, RxJS, GraphQL, Jest, and Cypress.io.
 
 I love sharing my experience and learning from others to continuously grow and improve!
 
